@@ -3,22 +3,24 @@ import {cn} from "@/lib/utils.js";
 
 const skills =[
 
-    //frontend
-    {name: 'HTML/CSS', level: 90, category: "frontend" },
-    {name: 'BootStrap/Tailwind/Sass', level: 60, category: "frontend" },
-    {name: 'React', level: 30, category: "frontend"},
-    {name: 'JavaScript', level: 30, category: "frontend"},
+   
 
     //backend
-    {name: 'PHP', level: 30, category: "backend" },
-    {name: 'Laravel', level: 10, category: "backend"},
-    {name: 'Java', level: 30, category: "backend"},
-    {name: 'MySQL', level: 50, category: "backend"},
+    {name: 'Java', level: 80, category: "backend"},
+    {name: 'Spring Boot', level: 80, category: "backend"},
+    {name: 'api Restful', level: 80, category: "backend"},
+    {name: 'MySql', level: 90, category: "backend"},
+
+     //frontend
+     {name: 'Angular', level: 50, category: "frontend"},
+     {name: 'Tailwind', level: 80, category: "frontend" },
+     {name: 'React', level: 80, category: "frontend"},
+     {name: 'Typescript', level: 80, category: "frontend"},
 
     //tools
-    {name: 'Git/Github', level: 90, category: "tools"},
-    {name: 'Figma', level: 50, category: "tools"},
-    {name: 'OutSystems', level: 60, category: "tools"},
+    {name: 'AWS', level: 50, category: "tools"},
+    {name: 'Docker/Kubernetes', level: 50, category: "tools"},
+    {name: 'Git', level: 80, category: "tools"},
     {name: 'Fluent English Level', level: 100, category: "tools"},
 ];
 

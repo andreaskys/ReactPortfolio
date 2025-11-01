@@ -47,8 +47,8 @@ export const ContactSection = () => {
                                 </div>
                                 <div>
                                     <h4 className={'font-medium'}>Email</h4>
-                                    <a href="mailto:andreasnunesmachado2016@gmail.com" className={'text-muted-foreground hover:text-primary transition-colors'}>
-                                        andreasnunesmachado2016@gmail.com
+                                    <a href="mailto:andreasnunesmachadodev@gmail.com" className={'text-muted-foreground hover:text-primary transition-colors'}>
+                                        andreasnunesmachadodev@gmail.com
                                     </a>
                                 </div>
                             </div>
@@ -79,7 +79,7 @@ export const ContactSection = () => {
                         <div className={'pt-6'}>
                             <h4 className={'font-medium mb-4'}>Connect with me </h4>
                             <div className={'flex space-x-4 justify-center'}>
-                                <a href="https://www.linkedin.com/in/andreas-nunes-machado-056635206/" target={'_blank'}>
+                                <a href="https://www.linkedin.com/in/andreasnunes" target={'_blank'}>
                                     <Linkedin/>
                                 </a>
                             </div>

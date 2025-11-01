@@ -11,12 +11,11 @@ export const AboutSection = () => {
 
                 <div className={'grid grid-cols-2 gap-12 items-center'}>
                     <div className={'space-y-6'}>
-                        <h3 className={'text-2xl font-semibold'}>Passionate Web Developer </h3>
+                        <h3 className={'text-2xl font-semibold'}>Passionate Fullstack Developer </h3>
 
                         <p className={'text-muted-foreground'}>
-                            With over 5 years of experience in web development, I specialize
-                            in creating responsive, accessible, and performant web applications
-                            using modern technologies
+                        Fullstack Developer with over 2 years of experience, specializing in backend development with Java and Spring Boot to create robust systems and scalable APIs. 
+                        I complement this expertise by building responsive, accessible, and performant web applications on the frontend with React, Angular, and Tailwind.
                         </p>
 
                         <p className={'text-muted-foreground'}>
@@ -32,7 +31,7 @@ export const AboutSection = () => {
                             </a>
 
                             <a
-                                href="/public/AndreasNunes CV.pdf"
+                                href="/public/AndreasCurriculum.pdf"
                                className={'px-6 py-4 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration/300'}
                             >
                                 {''}
@@ -49,9 +48,9 @@ export const AboutSection = () => {
                                     <Code className={'h-6 w-6 text-primary'}/>
                                 </div>
                                 <div className={'text-left'}>
-                                    <h4 className={'font-semibold text-lg '}>Web Development</h4>
+                                    <h4 className={'font-semibold text-lg '}>Fullstack Development</h4>
                                     <p className={'text-muted-foreground'}>
-                                        Creating responsive websites and web applications with modern frameworks.
+                                        Creating strong , robust , scalable and responsive web applications and api's with modern frameworks.
                                     </p>
                                 </div>
                             </div>

@@ -3,27 +3,27 @@ import {ArrowRight, Github} from "lucide-react";
 const projects = [
     {
         id: 1,
+        title: "Api Restful",
+        description: "api created created with java and spring boot",
+        image: "/projects/php-crud.png",
+        tags: ["Java", "Springboot", "api"],
+        github: 'https://github.com/andreaskys/restSpringboot'
+    },
+    {
+        id: 2,
+        title: "React Movie List",
+        description: "Created using react and consumes a public api to show a list of the most popular movies ",
+        image: "/projects/php-crud.png",
+        tags: ["React", "api", ],
+        github: 'https://github.com/andreaskys/Movie-List'
+    },
+    {
+        id: 3,
         title: "PHP Crud",
         description: "Crud created using PHP for a nutrition center",
         image: "/projects/php-crud.png",
         tags: ["PHP", "bootstrap", "mySQL"],
         github: 'https://github.com/andreaskys/PHP'
-    },
-    {
-        id: 2,
-        title: "React Movie List",
-        description: "Created using react and API this website gives you a list of the most popular movies ",
-        image: "/projects/php-crud.png",
-        tags: ["React", "API", ],
-        github: 'https://github.com/andreaskys/Movie-List'
-    },
-    {
-        id: 3,
-        title: "House Pricing",
-        description: "Crud created using PHP for a nutrition center",
-        image: "/projects/php-crud.png",
-        tags: ["PHP", "bootstrap", "mySQL"],
-        github: 'https://github.com/andreaskys/HousePrice'
     },
 ];
 
